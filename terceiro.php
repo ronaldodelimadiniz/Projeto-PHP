@@ -1,10 +1,10 @@
 <?php 
 
-	$num1 = 10;
-	$num2 = 20;
+	$v1 = 10;
+	$v2 = 20;
 
-	$resp = $num1 + $num2;
+	$resultado = $v1 + $v2;
 
-	echo "A soma de num1: $num1 + num2: $num2 é: $resp";
+	echo "A soma de v1: $v1 + v2: $v2 é: $resultado";
 
  ?>
